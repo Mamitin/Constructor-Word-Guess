@@ -18,3 +18,6 @@ var Letter = function(char) {
         }
     }
 }
+
+
+module.exports = Letter
